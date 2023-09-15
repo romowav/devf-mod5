@@ -3,9 +3,15 @@ module.exports = {
     browser: true,
     es2021: true
   },
+  settigns: {
+    react: {
+      version: "detect" // puedes decirle a eslint que detecte la version de react
+    }
+  },
   extends: [
     'standard',
-    'plugin:react/recommended'
+    'plugin:react/recommended',
+    'eslint-config-prettier'
   ],
   overrides: [
     {
