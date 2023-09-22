@@ -1,0 +1,13 @@
+.menu{
+    display: flex;
+    justify-content:flex-start;
+    align-items: baseline;
+    background-color: blueviolet;
+    padding: 10px;
+}
+.menu-ele{
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+}

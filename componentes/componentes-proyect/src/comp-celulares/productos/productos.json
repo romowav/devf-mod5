@@ -1,0 +1,24 @@
+{
+    "celulares" : [
+        {
+            "title": "iPhone 15",
+            "price": "25,000",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-compare-iphone-15-pro-202309_FMT_WHH?wid=248&hei=330&fmt=jpeg&qlt=90&.v=1692827834432"
+        },
+        {
+            "title": "Xiomi",
+            "price": "5,000",
+            "image": "https://m.media-amazon.com/images/I/61KYeBQgyrL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "title": "Galaxy",
+            "price": "15,000",
+            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTP84PHIKZgF_LkIHKJlocfREzMK54NZxqrVRgez9xW_zATuxKz"
+        },
+        {
+            "title": "Oxxofon",
+            "price": "5",
+            "image": "https://i.ebayimg.com/images/g/OhcAAOSw6DtYT593/s-l1200.jpg"
+        }
+    ]
+}

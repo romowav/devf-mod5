@@ -1,0 +1,16 @@
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    background-color: grey;
+}
+.foot-info{
+    display: flex;
+    justify-content: flex-end;
+}
+.footer-ele{
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+}
